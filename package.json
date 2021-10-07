@@ -1,0 +1,22 @@
+{
+  "name": "convert-html-to-markdown",
+  "version": "1.0.0",
+  "description": "Test to convert many files with html content to markdown",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "markdown",
+    "html"
+  ],
+  "author": "Claudia Valdivieso",
+  "license": "MIT",
+  "dependencies": {
+    "marked": "^3.0.6",
+    "turndown": "^7.1.1"
+  },
+  "devDependencies": {
+    "prettier": "2.4.1"
+  }
+}
